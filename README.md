@@ -11,7 +11,9 @@ press a random key. pray. get a point. or get punished. shakespeare watches over
 
 ## install
 ```git clone https://github.com/ivorytechd/luafuck```
+
 ```cd luafuck```
+
 ```sudo sh install.sh (./install.bat if high cortisol)```
 
 ## usage
