@@ -17,9 +17,9 @@ press a random key. pray. get a point. or get punished. shakespeare watches over
 ```sudo sh install.sh (./install.bat if high cortisol)```
 
 ## usage
-luafuck
+```luafuck```
 
-luafuck --rig-game  (cheater. i know.) 
+```luafuck --rig-game```  (cheater. i know.) 
 
 ## license
 GPLv3, because freedom is low cortisol
