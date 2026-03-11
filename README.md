@@ -10,16 +10,19 @@ press a random key. pray. get a point. or get punished. shakespeare watches over
 - windows user: 🔴 high cortisol (wsl required, skill issue)
 
 ## install
-```git clone https://github.com/ivorytechd/luafuck```
-
-```cd luafuck```
-
-```sudo sh install.sh (./install.bat if high cortisol)```
+```bash
+git clone https://github.com/ivorytechd/luafuck
+cd luafuck
+sudo sh install.sh (./install.bat if high cortisol)
+```
 
 ## usage
-```luafuck```
-
-```luafuck --rig-game```  (cheater. i know.) 
+```bash
+luafuck
+```
+```bash
+luafuck --rig-game # cheater. i know.
+```
 
 ## license
 GPLv3, because freedom is low cortisol
