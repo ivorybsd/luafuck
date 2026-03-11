@@ -18,6 +18,7 @@ press a random key. pray. get a point. or get punished. shakespeare watches over
 
 ## usage
 luafuck
+
 luafuck --rig-game  (cheater. i know.) 
 
 ## license
