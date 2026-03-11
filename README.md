@@ -13,7 +13,7 @@ press a random key. pray. get a point. or get punished. shakespeare watches over
 ```bash
 git clone https://github.com/ivorytechd/luafuck
 cd luafuck
-sudo sh install.sh (./install.bat if high cortisol)
+sudo sh install.sh # ./install.bat if high cortisol
 ```
 
 ## usage
