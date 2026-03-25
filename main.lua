@@ -2,7 +2,7 @@ local points=0
 local is_windows = package.config:sub(1,1) == '\\'
 local keys_list = {"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","r","s","t","u","v","w","x","y","z"}
 
-print("low cortisol game press random letter key on keyboard pray its right = +1 point else the punishment shalt be illogical (is shakesphere really dead???")
+print("low cortisol game press random letter key on keyboard pray its right = +1 point else the punishment shalt be illogical (is shakespeare really dead???")
 print("IMPORTANT! IF YOU PLAY ON WINSLOP 11 OR 10 OR WHATEVER YOU NEED WSL (WINDOWS SUBSYSTEM FOR LINUX) INSTALLED you can install it with wsl --install and canonical bloat u bum tu will automatically install")
 
 math.randomseed(os.time())
@@ -42,7 +42,7 @@ while true do
   elseif key == "q" then
     if rigged then
       print("i know you cheated, i now delete root")
-      print("sh5.3 /home/nowcorruptedbyluafuck/luafuck/main.lua > i am now executing.. sudo rm -rf /*")
+      print("sh5.3 $ /home/nowcorruptedbyluafuck/luafuck/main.lua > i am now executing.. sudo rm -rf /*")
       break
     else
       print("you quit the game and lost all the points you fucking dumbass fuck you because im too lazy to implement a saving feature for this nonchalant low cortisol project except the high cortisol winslop users using it")
