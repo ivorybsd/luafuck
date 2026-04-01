@@ -11,7 +11,7 @@ press a random key. pray. get a point. or get punished. shakespeare watches over
 
 ## install
 ```bash
-git clone https://github.com/ivorytechd/luafuck
+git clone https://github.com/ivorybsd/luafuck
 cd luafuck
 sudo sh install.sh # ./install.bat if high cortisol
 ```
